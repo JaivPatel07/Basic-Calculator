@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.button_contener
+{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.border_cal
+{
+    border: 2px solid black;
+    margin: 10px;
+    width: 300px;
+    background-color:antiquewhite;
+}
+#input_id
+{
+    margin: 10px;
+    height: 50px;
+    width: 92%;
+}
+.button
+{
+    height: 50px;
+    width: 50px;
+    margin: 3px;
+}
+#screen
+{
+display: flex;
+justify-content: center;
+}
