@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background: turquoise;
 }
 .button_contener
 {
@@ -8,6 +9,7 @@
     margin: 10px;
     justify-content: center;
     flex-wrap: wrap;
+    background: antiquewhite;
 }
 .border_cal
 {
@@ -21,12 +23,15 @@
     margin: 13px;
     height: 62px;
     width: 91%;
+    background: white;
+    
 }
 .button
 {
     height: 63px;
     width: 63px;
     margin: 5px;
+    background: #fff171;
 }
 #screen
 {
